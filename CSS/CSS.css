@@ -82,16 +82,16 @@ p {
 }
 @media (max-width: 767px) {
     .chicken {
-        width: 600px;
+        width: 80%;
         margin-left: 70px;
     }
     .beef {
-        width: 600px;
+        width: 80%;
         margin-left: 70px;
         margin-top: 20px;
     }
     .fish {
-        width: 600px;
+        width: 80%;
         margin-left: 70px;
         margin-top: 20px;
     }
